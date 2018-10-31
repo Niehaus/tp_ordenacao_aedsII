@@ -1,0 +1,6 @@
+Como compilar: 
+	gcc HeapSort.c QuickSort.c ShellSort.c InsertionSort.c SelectionSort.c OrdenaQuase.c tempo.c MergeSort.c Main.c -lm -o main
+	./main 
+
+YAY :D
+
